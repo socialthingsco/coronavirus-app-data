@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 783,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'How I survived coronavirus and isolation'",
+            "description": "53-year-old Julie talks about what it's like to be diagnosed with coronavirus and survive the symptoms.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-51714162/how-i-survived-coronavirus-and-isolation",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/190B/production/_111111460_p085g3bx.jpg",
+            "publishedAt": "2020-03-03T00:05:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: China orders travellers quarantined amid outbreak",
+            "description": "China is worried the virus might be imported back into the country.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51718614",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1861/production/_111114260_060395869-1.jpg",
+            "publishedAt": "2020-03-03T08:16:00Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Authorities are also asking overseas Chinese to reconsider travel plans\r\nTravellers from countries with severe coronavirus outbreaks who arrive in southern China will have to undergo a 14-day quarantine, state media … [+966 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Olympics 'could be postponed' until later in year",
+            "description": "Japan's Olympic minister says the Tokyo 2020 games could be postponed from the summer until later in the year amid fears over the coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/olympics/51717839",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/8DA5/production/_111116263_tokyo2020.jpg",
+            "publishedAt": "2020-03-03T11:27:49Z",
+            "content": "Seiko Hashimoto says Tokyo 2020 organisers are \"doing all we can\" to make sure the Games go ahead as planned\r\nJapan's Olympic minister says the Tokyo 2020 Games could be postponed from the summer until later in the year amid fears over the coronavirus outbrea… [+974 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Diamond and Gregory Wallace, CNN",
+            "title": "US officials want more traveler information from airlines to aid coronavirus response",
+            "description": "US officials are pressing airlines to collect and share more data on international travelers with federal health officials combating the coronavirus, two officials tell CNN.",
+            "url": "https://www.cnn.com/2020/03/02/politics/us-officials-airlines-collect-traveler-data/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302140730-us-traveler-airport-0301-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:23:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Up and down: Stock market has no idea how to react to cut",
+            "description": "Stocks fluctuated wildly on Tuesday after the Federal Reserve slashed interest rates by a half point to help protect the US economy against the fallout from coronavirus.",
+            "url": "https://www.cnn.com/2020/03/03/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303105316-02-nyse-0302-super-tease.jpg",
+            "publishedAt": "2020-03-03T15:28:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "See health official quickly correct Trump at roundtable chat",
+            "description": "CNN's Erin Burnett discusses claims made by President Donald Trump about the coronavirus that have completely contradicted what scientists have reported.",
+            "url": "https://www.cnn.com/videos/politics/2020/03/03/burnett-monologue-trump-scientist-coronavirus-reaction-ebof-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302192417-burnett-trump-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-03-03T00:27:21Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Pakistan confirms fifth coronavirus case",
+            "description": "Pakistan on Tuesday reported a new coronavirus case, bringing the total to five in the south Asian nation since last week, officials said.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/RGRPSSh3ac0/pakistan-confirms-fifth-coronavirus-case-idUSKBN20Q05I",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T01:55:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France reports fourth coronavirus death",
+            "description": "A fourth person has died in France due to a coronavirus infection, the Health Ministry said on Tuesday. It gave no detail on the person's age or nationality.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-france-idUSKBN20Q22K",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T15:05:48Z",
+            "content": "PARIS (Reuters) - A fourth person has died in France due to a coronavirus infection, the Health Ministry said on Tuesday. It gave no detail on the person’s age or nationality. \r\nOn Monday evening, French health authorities reported 191 confirmed cases of coro… [+118 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "COVID-19: Here's what's happening around the world Tuesday - CBC.ca",
+            "description": "COVID-19: Here's what's happening around the world Tuesday CBC.ca While other countries battle mushrooming coronavirus outbreaks, China claims victory is 'not far' The Globe and Mail Coronavirus: China orders travellers quarantined amid outbreak BBC News LILL…",
+            "url": "https://www.cbc.ca/news/world/coronavirus-china-southkorea-1.5483347",
+            "urlToImage": "https://i.cbc.ca/1.5483362.1583223922!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-coronavirus-china.JPG",
+            "publishedAt": "2020-03-03T11:59:00Z",
+            "content": "The latest:\r\nAll travellers entering Beijing from the virus hotspots of South Korea, Japan, Iran and Italy will have to be quarantined for 14 days, the deputy secretary general of the Beijing Municipal Government, Chen Bei, said on Tuesday.\r\nShanghai earlier … [+8363 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Ukraine reports first coronavirus case - health official",
+            "description": "Ukraine has its first confirmed coronavirus case, Ihor Kuzin, the acting head of the Health Ministry's public health center, told Reuters on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-ukraine-idUSKBN20Q0ZH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T09:19:17Z",
+            "content": "KIEV (Reuters) - Ukraine has its first confirmed coronavirus case, Ihor Kuzin, the acting head of the Health Ministry’s public health center, told Reuters on Tuesday. \r\nThe man was hospitalized on Saturday in the western city of Chernivtsi, having traveled to… [+297 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe, CNN",
+            "title": "The future: Here is how 3 other infectious outbreaks ended",
+            "description": "It has been more than a month since the World Health Organization declared the novel coronavirus a public health emergency of international concern. Since the outbreak began, there have been more than 90,000 cases of the virus worldwide and more than 3,100 de…",
+            "url": "https://www.cnn.com/2020/03/03/health/coronavirus-outbreaks-resolutions/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302232925-03-major-health-outbreaks-super-tease.jpg",
+            "publishedAt": "2020-03-03T10:23:09Z",
+            "content": "(CNN)It has been more than a month since the World Health Organization declared the novel coronavirus a public health emergency of international concern. Since the outbreak began, there have been more than 90,000 cases of the virus worldwide and more than 3,1… [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Four Chinese provinces lower coronavirus emergency response level",
+            "description": "Four Chinese provinces Yunnan, Guangdong, Shanxi and Guizhou on Monday lowered their coronavirus emergency response measures, local health commissions said.",
+            "url": "https://www.reuters.com/article/us-china-health-provinces-idUSKBN20Q1FB",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T11:40:10Z",
+            "content": "BEIJING (Reuters) - Four Chinese provinces Yunnan, Guangdong, Shanxi and Guizhou on Monday lowered their coronavirus emergency response measures, local health commissions said. \r\nYunnan and Guizhou cut their emergency response measures from level I to level I… [+451 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Qatar defense exhibition canceled as coronavirus spreads in Gulf",
+            "description": "Qatar's Dimdex defense exhibition due to be held this month has been canceled as the coronavirus outbreak spreads throughout the Gulf and wider Middle East.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-qatar-idUSKBN20Q13H",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T09:54:19Z",
+            "content": "DUBAI (Reuters) - Qatar’s Dimdex defense exhibition due to be held this month has been canceled as the coronavirus outbreak spreads throughout the Gulf and wider Middle East. \r\nThere have been at least 1,641 cases of the virus in the Gulf region, mostly in Ir… [+373 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus kills 77, infects 2,336 in Iran: deputy health minister",
+            "description": "Seventy seven people have died and 2,336 have been infected by the coronavirus, Iran's Deputy Health Minister Alireza Raisi said in an announcement on state TV on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN20Q19Q",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498111788&w=1200&r=LYNXMPEG220SM",
+            "publishedAt": "2020-03-03T10:54:09Z",
+            "content": "DUBAI (Reuters) - Seventy seven people have died and 2,336 have been infected by the coronavirus, Iran’s Deputy Health Minister Alireza Raisi said in an announcement on state TV on Tuesday. \r\nIran has had the highest number of deaths from the coronavirus outs… [+103 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: Countries evacuating nationals from coronavirus-hit areas",
+            "description": "A growing number of countries around the world have been evacuating or planning to evacuate diplomatic staff and citizens from areas hit by the new coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-evacuation-factbox-idUSKBN20Q0UZ",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498066406&w=1200&r=LYNXMPEG220KO",
+            "publishedAt": "2020-03-03T08:38:50Z",
+            "content": "(Reuters) - A growing number of countries around the world have been evacuating or planning to evacuate diplomatic staff and citizens from areas hit by the new coronavirus. \r\nFollowing are some countries’ evacuation plans, and how they aim to manage the healt… [+4518 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Instant View: Fed announces surprise rate cut to counter coronavirus impact",
+            "description": "The U.S. Federal Reserve cut interest rates on Tuesday in an emergency move designed to shield the world's largest economy from the impact of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-usa-fed-instant-view-idUSKBN20Q24I",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T15:28:00Z",
+            "content": "NEW YORK (Reuters) - The U.S. Federal Reserve cut interest rates on Tuesday in an emergency move designed to shield the world’s largest economy from the impact of the coronavirus. \r\nIn a statement, the central bank said it was cutting the fed funds rate half … [+1205 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: Latest on the spread of coronavirus around the world",
+            "description": "The new coronavirus appears to now be spreading much more rapidly outside China than within, and airports in hard-hit countries were ramping up screening of travelers.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-latest-factbox-idUSKBN20Q242",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498209741&w=1200&r=LYNXMPEG221F4",
+            "publishedAt": "2020-03-03T15:23:59Z",
+            "content": "(Reuters) - The new coronavirus appears to now be spreading much more rapidly outside China than within, and airports in hard-hit countries were ramping up screening of travelers. \r\n- Mainland China reported 125 new cases, bringing the total number of confirm… [+4083 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hideyuki Sano",
+            "title": "Global shares extend rebound on policy action hopes",
+            "description": "Global shares and oil prices extended their rebound on Tuesday on mounting speculation policymakers around the world would move to ease the economic fallout from the spreading coronavirus.",
+            "url": "https://www.reuters.com/article/us-global-markets-idUSKBN20Q02V",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1497922865&w=1200&r=LYNXMPEG22019",
+            "publishedAt": "2020-03-03T00:59:45Z",
+            "content": "TOKYO (Reuters) - Global shares and oil prices extended their rebound on Tuesday on mounting speculation policymakers around the world would move to ease the economic fallout from the spreading coronavirus. \r\nThe European Central Bank on Monday joined the cho… [+3868 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Pope tests negative for coronavirus, Italy report says",
+            "description": "Pope Francis, who canceled a Lent retreat for the first time in his papacy because he is suffering from a cold, has tested negative for coronavirus, the Italian newspaper Il Messaggero reported on Tuesday.",
+            "url": "https://www.reuters.com/article/us-pope-health-idUSKBN20Q0K0",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498027711&w=1200&r=LYNXMPEG220DG",
+            "publishedAt": "2020-03-03T06:39:39Z",
+            "content": "VATICAN CITY (Reuters) - Pope Francis, who canceled a Lent retreat for the first time in his papacy because he is suffering from a cold, has tested negative for coronavirus, the Italian newspaper Il Messaggero reported on Tuesday. \r\nVatican spokesman Matteo B… [+246 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Indonesia fears panic buying after first coronavirus cases",
+            "description": "Indonesian President Joko Widodo urged residents on Thursday to avoid panic buying of food and medical supplies, a day after the world's fourth most populous country confirmed its first coronavirus cases.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-indonesia-idUSKBN20Q1BO",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498118066&w=1200&r=LYNXMPEG220TV",
+            "publishedAt": "2020-03-03T11:11:48Z",
+            "content": "JAKARTA (Reuters) - Indonesian President Joko Widodo urged residents on Thursday to avoid panic buying of food and medical supplies, a day after the world’s fourth most populous country confirmed its first coronavirus cases. \r\nThe president also said he had o… [+1228 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "German book fair canceled due to coronavirus: Focus",
+            "description": "A book fair in the eastern German city of Leipzig has been canceled in an effort to contain the spread of the coronavirus in the country, Focus Magazine reported on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-leipzig-idUSKBN20Q1EO",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T11:37:33Z",
+            "content": "BERLIN (Reuters) - A book fair in the eastern German city of Leipzig has been canceled in an effort to contain the spread of the coronavirus in the country, Focus Magazine reported on Tuesday. \r\nA spokeswoman for the fair declined to comment on the report. Sh… [+134 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "South Korea reports 600 new coronavirus cases, three more deaths",
+            "description": "South Korea reported 600 new coronavirus cases and three more deaths from the virus, taking total infections to 4,812, the Korea Centers for Disease and Control and Prevention said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN20Q04P",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1497932532&w=1200&r=LYNXMPEG2202D",
+            "publishedAt": "2020-03-03T01:28:50Z",
+            "content": "SEOUL (Reuters) - South Korea reported 600 new coronavirus cases and three more deaths from the virus, taking total infections to 4,812, the Korea Centers for Disease and Control and Prevention said on Tuesday. \r\nAnger and fear around the virus’ spread have g… [+140 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yawen Chen",
+            "title": "China doctors seek tougher discharge criteria after positive coronavirus tests",
+            "description": "Worrying cases of recovered coronavirus patients in China testing positive again for the infection have raised questions among doctors about the criteria being used for discharging people from hospital.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-china-reinfection-idUSKBN20Q1BK",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T11:11:48Z",
+            "content": "BEIJING (Reuters) - Worrying cases of recovered coronavirus patients in China testing positive again for the infection have raised questions among doctors about the criteria being used for discharging people from hospital. \r\nChina has seen 80,000 cases of the… [+3723 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Maria Caspani",
+            "title": "New York Governor Cuomo confirms second coronavirus case in state",
+            "description": "A man from Westchester County, New York who works in Manhattan tested positive for the novel coronavirus, bringing the total confirmed cases in the state to two, Governor Andrew Cuomo said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN20Q201",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498196566&w=1200&r=LYNXMPEG221AM",
+            "publishedAt": "2020-03-03T14:47:52Z",
+            "content": "NEW YORK (Reuters) - A man from Westchester County, New York who works in Manhattan tested positive for the novel coronavirus, bringing the total confirmed cases in the state to two, Governor Andrew Cuomo said on Tuesday. \r\nThe 50-year-old man had an underlyi… [+265 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shoon Naing",
+            "title": "Myanmar turns away cruise ship over coronavirus fears",
+            "description": "Myanmar stopped a cruise boat carrying hundreds of tourists from docking in the country, a senior tourism official said on Tuesday, citing fears passengers could be carrying the coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-myanmar-ship-idUSKBN20Q1CQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T11:21:12Z",
+            "content": "YANGON (Reuters) - Myanmar stopped a cruise boat carrying hundreds of tourists from docking in the country, a senior tourism official said on Tuesday, citing fears passengers could be carrying the coronavirus. \r\nThe \r\n, a luxury liner operated by Monaco-based… [+2005 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Colombia's Ecopetrol restricts travel to Asia, Europe due to coronavirus: CEO",
+            "description": "Colombia's state-run oil company Ecopetrol SA placed restrictions on business travel to all Asian and European countries on Monday, its chief executive told Reuters, in response to the coronavirus outbreak.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/ragha2ctL-0/colombias-ecopetrol-restricts-travel-to-asia-europe-due-to-coronavirus-ceo-idUSKBN20Q001",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T00:02:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "New York City school closed Tuesday after suspected case of coronavirus: statement",
+            "description": "A New York City school says it will be closed on Tuesday after a suspected case of coronavirus was detected in its community, the SAR Academy and SAR High School said in a statement.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-school-idUSKBN20Q1U6",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T13:51:43Z",
+            "content": "(Reuters) - A New York City school says it will be closed on Tuesday after a suspected case of coronavirus was detected in its community, the SAR Academy and SAR High School said in a statement. \r\nThe school said the closure was a precautionary measure and th… [+276 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Kuwait asks passengers from 10 countries to provide certificates showing they are virus-free: statement",
+            "description": "Kuwait's civil aviation authority said on Tuesday passengers from 10 countries including India, Turkey and Egypt must produce certificates issued by the Kuwaiti embassy in their country saying they are coronavirus free.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-kuwait-idUSKBN20Q1WX",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T14:16:16Z",
+            "content": "DUBAI (Reuters) - Kuwait’s civil aviation authority said on Tuesday passengers from 10 countries including India, Turkey and Egypt must produce certificates issued by the Kuwaiti embassy in their country saying they are coronavirus free. \r\nPassengers who do n… [+154 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Unlikely UK will lock down cities to prevent coronavirus spread: Chief Medical Officer",
+            "description": "It seems unlikely Britain will lock down any cities to prevent the spread of coronavirus but the government will keep all options available, England's Chief Medical Officer Chris Whitty said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-whitty-idUSKBN20Q1EU",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498128970&w=1200&r=LYNXMPEG220VF",
+            "publishedAt": "2020-03-03T11:40:48Z",
+            "content": "LONDON (Reuters) - It seems unlikely Britain will lock down any cities to prevent the spread of coronavirus but the government will keep all options available, England’s Chief Medical Officer Chris Whitty said on Tuesday. \r\nBritain has had 39 confirmed cases … [+585 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yimou Lee",
+            "title": "'Provocative' China pressures Taiwan with fighters, fake news amid virus outbreak",
+            "description": "China is pressuring Taiwan with \"provocative\" air force maneuvers near the island and spreading fake news to sow discord during the coronavirus outbreak, security sources and government officials in Taiwan say.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-taiwan-china-idUSKBN20Q08M",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1497956705&w=1200&r=LYNXMPEG22047",
+            "publishedAt": "2020-03-03T02:50:37Z",
+            "content": "TAIPEI (Reuters) - China is pressuring Taiwan with “provocative” air force maneuvers near the island and spreading fake news to sow discord during the coronavirus outbreak, security sources and government officials in Taiwan say. \r\nThe epidemic has strained a… [+3763 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chris Thomas",
+            "title": "World pharma supplier India restricts export of some ingredients, drugs",
+            "description": "India, the world's main supplier of generic drugs, on Tuesday restricted the export of 26 pharmaceutical ingredients and drugs made from them, including paracetamol, as concern mounted the coronavirus outbreak could turn into a pandemic.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-india-idUSKBN20Q0ZZ",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498082302&w=1200&r=LYNXMPEG220N0",
+            "publishedAt": "2020-03-03T09:25:37Z",
+            "content": "BENGALURU/NEW DELHI (Reuters) - India, the world’s main supplier of generic drugs, on Tuesday restricted the export of 26 pharmaceutical ingredients and drugs made from them, including paracetamol, as concern mounted the coronavirus outbreak could turn into a… [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. Homeland Security Department temporarily closes office in Washington State amid coronavirus concerns",
+            "description": "The U.S. Department of Homeland Security (DHS) temporarily closed an office in Washington state on Tuesday amid concerns over the possible spread of the coronavirus, acting DHS Secretary Chad Wolf said during a congressional hearing.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-security-idUSKBN20Q25W",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T15:46:00Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Department of Homeland Security (DHS) temporarily closed an office in Washington state on Tuesday amid concerns over the possible spread of the coronavirus, acting DHS Secretary Chad Wolf said during a congressional hearing. \r\n… [+289 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Lockdown: Not everyone unhappy about life in Italy's red zone",
+            "description": "Life in quarantine is wearing thin for many residents shut off from the outside world in towns at the heart of Italy's coronavirus outbreak, but not everyone is unhappy.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-red-zone-dia-idUSKBN20Q2JR",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498266980&w=1200&r=LYNXMPEG221RM",
+            "publishedAt": "2020-03-03T18:01:52Z",
+            "content": "SAN FIORANO, Italy (Reuters) - Life in quarantine is wearing thin for many residents shut off from the outside world in towns at the heart of Italy’s coronavirus outbreak, but not everyone is unhappy. \r\nLife inside a red zone: Gino Verani, 87, suffers from se… [+2332 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China allocated $15.6 billion in epidemic prevention funds by March 2 - finance ministry official",
+            "description": "Chinese governments of every level had allocated a total of 108.75 billion yuan ($15.58 billion) in special funds by March 2 to prevent the spread of the coronavirus epidemic, a finance ministry official said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-china-funds-idUSKBN20Q0Q7",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T07:52:12Z",
+            "content": "BEIJING (Reuters) - Chinese governments of every level had allocated a total of 108.75 billion yuan ($15.58 billion) in special funds by March 2 to prevent the spread of the coronavirus epidemic, a finance ministry official said on Tuesday. \r\nFu Jinling, head… [+505 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "World finance officials to consider how to cushion economies against coronavirus",
+            "description": "G7 finance officials will on Tuesday discuss ways to bolster their economies against the impact of the spreading coronavirus outbreak, but are not expected to specifically call for new spending or coordinated interest rate cuts, a G7 official said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-idUSKBN20Q14O",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498102338&w=1200&r=LYNXMPEG220PG",
+            "publishedAt": "2020-03-03T10:13:16Z",
+            "content": "BEIJING (Reuters) - G7 finance officials will on Tuesday discuss ways to bolster their economies against the impact of the spreading coronavirus outbreak, but are not expected to specifically call for new spending or coordinated interest rate cuts, a G7 offic… [+4049 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/ben-westcott\">Ben Westcott</a> and Adam Renton, CNN",
+            "title": "The virus has killed six people in Washington state, according to health officials. More than 3,000 have died globally from the outbreak.",
+            "description": "There are now more than 100 infections in the United States, with Washington and California the worst affected states. Follow the latest here.",
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-03-03-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302151908-06-coronavirus-0301-washington-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:08:19Z",
+            "content": "The death toll from the coronavirus has reached 28 in South Korea as the number of new confirmed cases across the country continues to rise.\r\nAnother 600 new infections were announced today by the South Korean Centers for Disease Control and Prevention (KCDC)… [+330 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sarah Nassauer",
+            "title": "Retailers Confront Coronavirus Uncertainty - The Wall Street Journal",
+            "description": "Retailers Confront Coronavirus Uncertainty The Wall Street Journal Target shares fall on mixed fourth-quarter results CNBC Target Earnings Top, Sales Miss; Target Stock Falls Investor's Business Daily Target posts strong online sales, but revenue comes up sho…",
+            "url": "https://www.wsj.com/articles/retailers-confront-coronavirus-uncertainty-11583235300",
+            "urlToImage": "https://images.wsj.net/im-159731/social",
+            "publishedAt": "2020-03-03T13:05:00Z",
+            "content": "Target Corp., Kohls Corp. and other retailers that posted lackluster holiday results must now confront the uncertainty caused by the coronavirus, which could help or hurt sales in the coming months.\r\nIn recent days, grocers have logged strong sales as some co… [+136 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China to send plane to Iran to pick up citizens from virus-stricken areas: Global Times",
+            "description": "China will send a chartered plane to Iran on the evening of March 3 to pick up its citizens from areas struck by the coronavirus, according to a report by Global Times, which is run by the official People's Daily newspaper.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-china-iran-idUSKBN20Q12T",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T09:45:21Z",
+            "content": "BEIJING (Reuters) - China will send a chartered plane to Iran on the evening of March 3 to pick up its citizens from areas struck by the coronavirus, according to a report by Global Times, which is run by the official People’s Daily newspaper. \r\nOutside China… [+129 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Joohee Cho, Hakyung Kate Lee",
+            "title": "South Korean president declares war on COVID-19 as deaths there reach 31",
+            "description": "More than 5,000 cases of coronavirus have been confirmed in South Korea.",
+            "url": "https://abcnews.go.com/International/south-korean-president-declares-war-covid-19-deaths/story?id=69360757",
+            "urlToImage": "https://s.abcnews.com/images/International/south-korea-facemasks_hpMain_20200224-223213_16x9_992.jpg",
+            "publishedAt": "2020-03-03T17:21:50Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korean President Moon Jae-in has declared \"war\" on the novel coronavirus after the country has recorded more than 5,000 confirmed cases and more than 30 deaths.\r\nAt least 125,000 people have been tested, and 31 have died from COV… [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will Steakin",
+            "title": "Trump hits campaign trail in NC amid mounting coronavirus threat",
+            "description": "President Donald Trump is back on the campaign trial Monday for another counter programming rally amid a mounting coronavirus threat.",
+            "url": "https://abcnews.go.com/Politics/trump-hits-campaign-trail-nc-amid-mounting-coronavirus/story?id=69343620",
+            "urlToImage": "https://s.abcnews.com/images/Politics/trump-rally-supporters-rt-jef-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T00:04:45Z",
+            "content": "President Donald Trump is back on the campaign trial Monday night for another counter programming rally, this time in Charlotte, North Carolina, the day before Super Tuesday, as his administration continues to work to combat the growing threat of the novel co… [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW TAYLOR and LISA MASCARO Associated Press",
+            "title": "Lawmakers close in on $7.5B measure to battle coronavirus",
+            "description": "Lawmakers are finalizing a $7.5 billion emergency bill to fund the government's response to the coronavirus outbreak in a burst of bipartisan cooperation",
+            "url": "https://abcnews.go.com/Politics/wireStory/lawmakers-close-75b-measure-battle-coronavirus-69363425",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_638cc2990c264b379da4581fc9184903_16x9_992.jpg",
+            "publishedAt": "2020-03-03T18:05:56Z",
+            "content": "WASHINGTON -- \r\nLawmakers are finalizing a $7.5 billion emergency bill to fund the government's response to the coronavirus outbreak, in a burst of bipartisan cooperation that's atypical of today's Washington.\r\nSen. Chuck Schumer, a caustic critic of Presiden… [+3375 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Ebbs",
+            "title": "Washington State senator 'frustrated' residents can't get tested for new coronavirus",
+            "description": "Washington Sen. Patty Murray expressed frustration to CDC officials Tuesday about what she said was a lack of COVID-19 testing available in her hard-hit state.",
+            "url": "https://abcnews.go.com/Politics/washington-state-senator-frustrated-residents-tested-coronavirus/story?id=69358279",
+            "urlToImage": "https://s.abcnews.com/images/Politics/coronavirus1-dc-gty-ml-200303_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T17:02:16Z",
+            "content": "At a congressional hearing Tuesday reviewing the U.S. response to the COVID-19 crisis, Washington Sen. Patty Murray expressed strong frustration to federal health officials over what she said was a lack of testing in her home state where at least six people h… [+6030 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "Coronavirus live updates: US man with no known connection to hot spots tests positive",
+            "description": "A virus epidemic that started in China about two months ago is now tightening its grip around the globe.",
+            "url": "https://abcnews.go.com/International/coronavirus-outbreak-slows-china-grows-world/story?id=69352520",
+            "urlToImage": "https://s.abcnews.com/images/International/disinfectant-spray-xiaogan-china-getty-200303_hpMain_20200303-044814_16x9_992.jpg",
+            "publishedAt": "2020-03-03T16:08:22Z",
+            "content": "A virus epidemic that started in China about two months ago is now tightening its grip around the globe.\r\nTodays highlights:\r\n<li>COVID-19 does not compare to SARS, MERS or influenza, WHO says.</li><li>Man in \"serious condition\" after testing positive in West… [+11906 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "After a week of bloodletting, US stock markets rebound sharply",
+            "description": "After some major bloodletting last week, the Dow Jones Industrial Average had its biggest single-day percentage gain since 2009 on Monday, rising nearly 1,300 points.",
+            "url": "https://abcnews.go.com/US/week-bloodletting-us-stock-markets-rebound-sharply/story?id=69344122",
+            "urlToImage": "https://s.abcnews.com/images/Business/nyse-rt-aa-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T00:46:06Z",
+            "content": "After some major bloodletting last week, the Dow Jones Industrial Average had its biggest single-day percentage gain since 2009 on Monday, rising nearly 1,300 points or more than 5%.\r\nThe S&amp;P 500 and Nasdaq similarly rallied Monday, up by 4.6% and 4.49%, … [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Isha Bassi",
+            "title": "19 Eerie Photos That Show Australia's Reaction To The Coronavirus Outbreak",
+            "description": "This feels like something straight out of a Hollywood movie. View Entire Post ›",
+            "url": "https://www.buzzfeed.com/ishabassi/reactions-australia-coronavirus",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-03/3/0/enhanced/c4b9317d7116/original-733-1583195575-2.jpg?crop=1009:528;0,0",
+            "publishedAt": "2020-03-03T00:38:21Z",
+            "content": "Currently, there are 33 confirmed cases in Australia nine in Queensland, nine in NSW, nine in Victoria, three in South Australia, two in Western Australia and one in Tasmania as well as one recorded death in WA."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: China's tech fights back",
+            "description": "Robots, drones and artificial intelligence are being used by China to fight the disease.",
+            "url": "https://www.bbc.co.uk/news/technology-51717164",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FC3/production/_111113180_gettyimages-1203625451.jpg",
+            "publishedAt": "2020-03-03T12:37:20Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n A robot on display at a hospital in China\r\nDisinfecting robots, smart helmets, thermal camera-equipped drones and advanced facial recognition software are all being deployed in the fight against Covid-19 at the heart… [+6182 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Brianna Ehley",
+            "title": "Trump's team shifts tone from preventing coronavirus to containing it",
+            "description": "“Now we’re focused on mitigation of the spread, as well as the treatment of the people affected,” Pence said.",
+            "url": "https://www.politico.com/news/2020/03/02/trump-coronavirus-pence-119051",
+            "urlToImage": "https://static.politico.com/33/f6/57299369455886de27d020baf098/200302-penceazar-gty-773.jpg",
+            "publishedAt": "2020-03-03T00:52:09Z",
+            "content": "HHS Secretary Alex Azar stressed the immediate risk to the American public remains low, but added: The degree of risk has the potential to change quickly. He said officials expect more confirmed cases as the U.S.s testing capacity is expected to dramatically … [+1619 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Quint Forgey",
+            "title": "Trump pummels Fed as economic leaders cope with coronavirus",
+            "description": "The president again urged the central bank to lower interest rates.",
+            "url": "https://www.politico.com/news/2020/03/03/trump-fed-economy-coronavirus-119372",
+            "urlToImage": "https://static.politico.com/f2/eb/d0d76f1a4a85bd34521197a5fc9f/200303-jerome-powell-gty-773.jpg",
+            "publishedAt": "2020-03-03T12:59:53Z",
+            "content": "The presidents posts come hours before a planned interagency meeting led by the White Houses National Economic Council to discuss the coronavirus effect on the U.S. economy. \r\nFinancial ministers and central bankers of the Group of Seven major economies are a… [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pope Tests Negative on Coronavirus: Messaggero",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/pope-tests-negative-on-coronavirus-messaggero",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T08:28:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Don't Panic: WHO Spokesman on Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/who-spokesman-on-coronavirus-we-don-t-need-panic-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T10:40:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Assessing China's Response to the Coronavirus Outbreak",
+            "description": "Danny Russel, a former U.S. assistant secretary of state for East Asia who’s now a vice president of the Asia Society in New York, shares his views on how the Chinese government is dealing with the coronavirus outbreak. He speaks with Shery Ahn and Haidi Stro…",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/assessing-china-s-response-to-the-coronavirus-outbreak-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igLEdmQZD2GI/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-03T04:23:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "BMW CEO on i4 Concept Vehicle, Coronavirus, China Sales",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/bmw-ceo-on-i4-concept-vehicle-coronavirus-china-sales-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T09:36:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "IAG CEO: Milan Flight Demand Halved Because of Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-milan-flight-demand-halved-because-of-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T15:03:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Coronavirus Could Impact Hong Kong's Fragile Economy",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/how-coronavirus-could-impact-hong-kong-s-fragile-economy-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T02:03:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Coronavirus Checklist: Nine Steps to Protect Your Company",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/the-coronavirus-checklist-nine-steps-to-protect-your-company",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T10:00:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "IAG CEO Walsh on Coronavirus Impact, Heathrow Runway, Retirement",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-walsh-on-coronavirus-impact-heathrow-runway-retirement-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T12:50:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Seattle Is Grappling With America's Largest Coronavirus Outbreak",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/quarantine-motel-cached-food-seattle-confronts-a-deadly-virus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T02:32:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "New York Suburb Has Coronavirus Case Without Travel History",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/nyc-school-closed-as-a-precaution-on-suspected-virus-case",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T14:14:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Max Nisen on the U.S.'s Coronavirus Vulnerabilities (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-03/max-nisen-on-the-u-s-s-coronavirus-vulnerabilities-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T18:04:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Iran Supreme Leader Says 'Let's Not Exaggerate' Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/iran-supreme-leader-says-let-s-not-exaggerate-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:53:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ryanair CEO O'Leary on Coronavirus Impact, Boeing's 737 Max Jet",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/ryanair-ceo-o-leary-on-coronavirus-impact-boeing-s-737-max-jet-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:29:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Won't Create Much Disruption for Snap-On, CEO Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/coronavirus-won-t-create-much-disruption-for-snap-on-ceo-says-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T14:08:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Matthew Boyle",
+            "title": "Target Forecasts 2020 Profit Toward Lower End of Estimates",
+            "description": "Target Corp. gave a lukewarm outlook for its profit this year -- a sign the retail giant sees some challenges mounting as uncertainty reigns about the impact of the coronavirus outbreak. The shares fell in early trading.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/target-forecasts-2020-profit-toward-lower-end-of-estimates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPEhxO0WciQ8/v0/1200x800.jpg",
+            "publishedAt": "2020-03-03T11:50:51Z",
+            "content": "Target Corp. gave a lukewarm outlook for its profit this year -- a sign the retail giant sees some challenges mounting as uncertainty reigns about the impact of the coronavirus outbreak. The shares fell in early trading.\r\n<ul><li>Excluding some items, earning… [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Gabby Orr",
+            "title": "‘This is the equivalent of war’: Pence faces the toughest test of the Trump era",
+            "description": "Trump assigned his right-hand man to a role that could shape the president’s fate in an election year. He’s approaching the job with a much different style than the president is deploying.",
+            "url": "https://www.politico.com/news/2020/03/02/trump-coronavirus-pence-119057",
+            "urlToImage": "https://static.politico.com/1d/f7/c15983014cb0aa339324afa029fe/200302-pence-gty-773.jpg",
+            "publishedAt": "2020-03-03T01:07:15Z",
+            "content": "This is the equivalent of war. This is a big deal and people are going to die, and so you cant afford to make mistakes, said former House Speaker Newt Gingrich. \r\nGingrich sent a note to Pence on Sunday praising the discipline he showed during a tough Sunday … [+8181 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Juliette Jabkhiro",
+            "title": "Senegal confirms second case of coronavirus",
+            "description": "Senegal's health ministry said a second person who flew to the West African country from France last week tested positive for coronavirus on Tuesday, taking the total number of cases in sub-Saharan Africa to three.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-senegal-idUSKBN20Q2RS",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498293270&w=1200&r=LYNXMPEG221VN",
+            "publishedAt": "2020-03-03T19:13:36Z",
+            "content": "DAKAR (Reuters) - Senegal’s health ministry said a second person who flew to the West African country from France last week tested positive for coronavirus on Tuesday, taking the total number of cases in sub-Saharan Africa to three. \r\nThe latest patient, an 8… [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China defense minister discusses coronavirus with U.S.",
+            "description": "Chinese Defense Minister Wei Fenghe discussed the coronavirus situation in China with U.S. Defense Secretary Mark Esper on Wednesday in a telephone call, China's defense ministry said.",
+            "url": "https://www.reuters.com/article/us-china-usa-defense-idUSKBN20Q2CZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498237339&w=1200&r=LYNXMPEG221LS",
+            "publishedAt": "2020-03-03T16:41:00Z",
+            "content": "BEIJING/SHANGHAI (Reuters) - Chinese Defense Minister Wei Fenghe discussed the coronavirus situation in China with U.S. Defense Secretary Mark Esper on Wednesday in a telephone call, China’s defense ministry said. \r\nWei said the positive trend in China’s coro… [+528 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bahrain Grand Prix: Coronavirus fears prompt special measures from organisers",
+            "description": "Bahrain is instigating special measures for Formula 1 personnel working at its grand prix in the wake of the global coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/formula1/51727401",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5B74/production/_111121432_bahrain.jpg",
+            "publishedAt": "2020-03-03T16:25:44Z",
+            "content": "Lewis Hamilton won the Bahrain Grand Prix last year\r\nBahrain is instigating special measures for Formula 1 personnel working at its grand prix later this month in the wake of the global coronavirus outbreak. \r\nThe Gulf state has imposed a 14-day quarantine on… [+2500 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Quarantined Cofidis riders 'held against their will' and 'treated like plague victims' in UAE",
+            "description": "Cofidis riders are being 'held against their will' and 'treated like plague victims' in the UAE says team president Thierry Vittu",
+            "url": "https://www.bbc.co.uk/sport/cycling/51719324",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/6DF7/production/_111115182_gettyimages-1202926156.jpg",
+            "publishedAt": "2020-03-03T11:27:02Z",
+            "content": "Nathan Haas is one of seven Cofidis riders still under quarantine in the UAE\r\nCofidis riders are being \"held against their will\" and \"treated like plague victims\" in the UAE says team president Thierry Vittu. \r\nThe final two stages of the UAE Tour were cancel… [+3020 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UK now has 51 confirmed cases of coronavirus: health minister",
+            "description": "The number of confirmed coronavirus cases in Britain has risen to 51, health minister Matt Hancock said on Tuesday, up from 39 the previous day.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-hancock-idUSKBN20Q1PH",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498162872&w=1200&r=LYNXMPEG2211D",
+            "publishedAt": "2020-03-03T13:15:27Z",
+            "content": "LONDON (Reuters) - The number of confirmed coronavirus cases in Britain has risen to 51, health minister Matt Hancock said on Tuesday, up from 39 the previous day. \r\nEarlier, the government unveiled its “battle plan” to tackle the spread of coronavirus, warni… [+324 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Japan confirms new coronavirus infection in Tokyo: Kyodo",
+            "description": "Japan on Tuesday confirmed a new coronavirus infection in the country's capital Tokyo after a woman in her fifties tested positive, Kyodo newswire reported.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-japan-idUSKBN20Q16I",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498102456&w=1200&r=LYNXMPEG220Q7",
+            "publishedAt": "2020-03-03T10:26:12Z",
+            "content": "TOKYO (Reuters) - Japan on Tuesday confirmed a new coronavirus infection in the country’s capital Tokyo after a woman in her fifties tested positive, Kyodo newswire reported. \r\nReporting by Tim Kelly; Editing by Andrew Heavens"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Don Pittis",
+            "title": "Bank of Canada may cut rates to aid economy sickened by COVID-19: Don Pittis",
+            "description": "The novel coronavirus has led to a global decline in consumption and production, and as the global economy weakens action by the Bank of Canada becomes more likely.",
+            "url": "https://www.cbc.ca/news/business/poloz-coronavirus-economy-1.5482180",
+            "urlToImage": "https://i.cbc.ca/1.5482880.1583183694!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-health-canada.JPG",
+            "publishedAt": "2020-03-03T09:00:00Z",
+            "content": "It is becoming increasingly clear that the impact of COVID-19 on the economy is far more than a blip.\r\nEconomists' earlier hopes of a V-shaped recovery   a sharp rise back to normal after a sharp decline  are fading fast as evidence increases that the global … [+5974 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Official says China's Hubei province will continue with strict measures to curb coronavirus",
+            "description": "An official at Hubei's health commission said the province should continue with the strictest measures in curbing the coronavirus, and should not relax.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-hubei-idUSKBN20Q0VY",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498069377&w=1200&r=LYNXMPEG220L7",
+            "publishedAt": "2020-03-03T08:45:28Z",
+            "content": "BEIJING (Reuters) - An official at Hubei’s health commission said the province should continue with the strictest measures in curbing the coronavirus, and should not relax. \r\nTu Yuanchao, speaking at a daily news briefing in Hubei on Tuesday, said the provinc… [+290 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Argentine health minister confirms country's first case of coronavirus",
+            "description": "Argentina Health Minister Gines Gonzalez Garcia on Tuesday confirmed the South American country's first case of the fast-spreading new coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-argentina-idUSKBN20Q2SC",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T19:19:54Z",
+            "content": "BUENOS AIRES (Reuters) - Argentina Health Minister Gines Gonzalez Garcia on Tuesday confirmed the South American country’s first case of the fast-spreading new coronavirus. \r\nThe patient, a 43-year-old man, arrived in Argentina on March 1 after a two-week tri… [+863 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Colin Packham",
+            "title": "Australia to use biosecurity law to restrict movements of coronavirus patients",
+            "description": "Australia will use a little-known biosecurity law to restrict the movements of people suspected of having coronavirus, its attorney-general said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-australia-idUSKBN20Q06W",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1497947809&w=1200&r=LYNXMPEG2203F",
+            "publishedAt": "2020-03-03T02:18:17Z",
+            "content": "SYDNEY (Reuters) - Australia will use a little-known biosecurity law to restrict the movements of people suspected of having coronavirus, its attorney-general said on Tuesday. \r\nAustralia on Monday confirmed the first community transmission of coronavirus aft… [+2075 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Japan confirms two new coronavirus infections in Osaka: Kyodo",
+            "description": "Japan on Tuesday confirmed two new coronavirus infections in Osaka, western Japan, a man in his 50s and a woman in her 40s, Kyodo newswire reported.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-japan-osaka-idUSKBN20Q1IH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T12:16:58Z",
+            "content": "TOKYO (Reuters) - Japan on Tuesday confirmed two new coronavirus infections in Osaka, western Japan, a man in his 50s and a woman in her 40s, Kyodo newswire reported. \r\nThe woman had visited a music venue in nearby Osaka that has been the source of several in… [+73 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UAE to disable all schools and high educational institutions for four weeks: WAM",
+            "description": "United Arab Emirates announced on Tuesday that schools and higher educational institutions will be closed for four weeks starting on Sunday to avoid the spreading of coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-emirates-idUSKBN20Q2Q7",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T18:53:04Z",
+            "content": "CAIRO (Reuters) - United Arab Emirates announced on Tuesday that schools and higher educational institutions will be closed for four weeks starting on Sunday to avoid the spreading of coronavirus. \r\nThe statement from the education ministry, posted by the sta… [+183 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "These Are Debt-Bloated Companies the Coronavirus Threatens to Drag Down",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/debt-bloated-companies-that-coronavirus-threatens-to-drag-down",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T08:34:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "fiscal Policy to be Used to Cope With Coronavirus Hit (Radio)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-03/fiscal-policy-to-be-used-to-cope-with-coronavirus-hit-radio",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T03:37:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "G-7 Set for Emergency Coronavirus Call With Economy Under Threat",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/g-7-set-for-emergency-coronavirus-call-with-economy-under-threat",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T07:54:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UK PM Johnson: Coronavirus will not stop me shaking hands",
+            "description": "British Prime Minister Boris Johnson said on Tuesday that coronavirus would not stop him greeting people with a handshake, adding that he had shaken the hands of everyone at a hospital where infected patients were being treated.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-handshake-idUSKBN20Q1IO",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498141994&w=1200&r=LYNXMPEG220XP",
+            "publishedAt": "2020-03-03T12:16:25Z",
+            "content": "LONDON (Reuters) - British Prime Minister Boris Johnson said on Tuesday that coronavirus would not stop him greeting people with a handshake, adding that he had shaken the hands of everyone at a hospital where infected patients were being treated. \r\nJohnson w… [+1136 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UK not planning to cancel mass events, health minister says",
+            "description": "Britain is not planning to cancel mass gatherings or large sports events over the concerns about coronavirus, but will need legislation in case it needs to take action in the future, British health minister Matt Hancock said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-hancock-idUSKBN20Q0P0",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498047490&w=1200&r=LYNXMPEG220HW",
+            "publishedAt": "2020-03-03T07:40:20Z",
+            "content": "LONDON (Reuters) - Britain is not planning to cancel mass gatherings or large sports events over the concerns about coronavirus, but will need legislation in case it needs to take action in the future, British health minister Matt Hancock said on Tuesday. \r\n“… [+403 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Concerts, sports events in UAE canceled, postponed as virus spreads in Gulf",
+            "description": "Major concerts and events in the United Arab Emirates, an air transit center as well as a tourism and business hub, have been canceled or postponed as the coronavirus spreads in the Gulf.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-emirates-idUSKBN20Q0NQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498042539&w=1200&r=LYNXMPEG220GS",
+            "publishedAt": "2020-03-03T07:25:39Z",
+            "content": "DUBAI (Reuters) - Major concerts and events in the United Arab Emirates, an air transit center as well as a tourism and business hub, have been canceled or postponed as the coronavirus spreads in the Gulf. \r\nThere have been at least 1,641 cases of the virus i… [+1687 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Jailed British-Iranian Nazanin Zaghari-Ratcliffe in good health - Iran judiciary spokesman",
+            "description": "Jailed British-Iranian Nazanin Zaghari-Ratcliffe is in good health, Iran's judiciary spokesman said on Tuesday, after her husband issued a statement on Saturday saying she is suspected of having contracted coronavirus in prison.",
+            "url": "https://www.reuters.com/article/us-iran-britain-zaghari-ratcliffe-idUSKBN20Q0VO",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T08:41:53Z",
+            "content": "DUBAI (Reuters) - Jailed British-Iranian charity worker Nazanin Zaghari-Ratcliffe is in good health, Iran’s judiciary spokesman said on Tuesday, after her husband said on Saturday he believed she had contracted the coronavirus in prison. \r\n“Mrs. Nazanin Zagha… [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Jailed British-Iranian Zaghari-Ratcliffe in good health, Tehran says",
+            "description": "Jailed British-Iranian charity worker Nazanin Zaghari-Ratcliffe is in good health, Iran's judiciary spokesman said on Tuesday, after her husband said on Saturday he believed she had contracted the coronavirus in prison.",
+            "url": "https://www.reuters.com/article/us-iran-britain-zaghari-ratcliffe-idUSKBN20Q0VO",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T09:20:09Z",
+            "content": "DUBAI (Reuters) - Jailed British-Iranian charity worker Nazanin Zaghari-Ratcliffe is in good health, Iran’s judiciary spokesman said on Tuesday, after her husband said on Saturday he believed she had contracted the coronavirus in prison. \r\n“Mrs. Nazanin Zagha… [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italy considers creating new coronavirus red-zone as cases rise: official",
+            "description": "Italy is considering setting up a new quarantine red-zone near the northern city of Bergamo given the high number of coronavirus cases in the area, the head of the national health institute said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-redzone-idUSKBN20Q2HZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498258495&w=1200&r=LYNXMPEG221QV",
+            "publishedAt": "2020-03-03T17:36:21Z",
+            "content": "ROME (Reuters) - Italy is considering setting up a new quarantine red-zone near the northern city of Bergamo given the high number of coronavirus cases in the area, the head of the national health institute said on Tuesday. \r\nThe Italian government set up two… [+495 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Mark Gollom",
+            "title": "Delayed U.S. response to coronavirus could result in more deaths, health experts say",
+            "description": "The delayed response by the U.S. government to the coronavirus outbreak could have significant ramifications, including the number of people ultimately diagnosed as infected, and potential fatalities from the disease, some health policy experts say.",
+            "url": "https://www.cbc.ca/news/world/coronavirus-us-reaction-criticism-1.5482317",
+            "urlToImage": "https://i.cbc.ca/1.5477571.1583193921!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-virus-outbreak.jpg",
+            "publishedAt": "2020-03-03T09:00:00Z",
+            "content": "The delayed response by the U.S. government to the coronavirus outbreak could have significant ramifications, including the number of people ultimately diagnosed as infected and potential fatalities from the disease, some health policy experts say.\r\nOn Monday… [+5886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China's Guangdong to require visitors from virus-hit countries to undergo quarantine",
+            "description": "China's Guangdong province will require travelers arriving from countries and regions with severe coronavirus outbreaks to quarantine themselves for 14 days, the government-backed Nanfang Daily newspaper reported on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-guangdong-idUSKBN20Q0AY",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T03:55:16Z",
+            "content": "SHANGHAI (Reuters) - China’s Guangdong province will require travelers arriving from countries and regions with severe coronavirus outbreaks to quarantine themselves for 14 days, the government-backed Nanfang Daily newspaper reported on Tuesday. \r\nGuangdong i… [+624 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Hong Kong to bring back 533 stranded citizens from Wuhan",
+            "description": "Hong Kong has hired four charter flights to bring back 533 citizens from around the central mainland China city of Wuhan, where the new coronavirus originated, Chief Executive Carrie Lam said on Tuesday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-hongkong-carrie-la-idUSKBN20Q069",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1497945126&w=1200&r=LYNXMPEG2203A",
+            "publishedAt": "2020-03-03T02:10:50Z",
+            "content": "HONG KONG (Reuters) - Hong Kong has hired four charter flights to bring back 533 citizens from around the central mainland China city of Wuhan, where the new coronavirus originated, Chief Executive Carrie Lam said on Tuesday. \r\nThe flights will return on Wedn… [+175 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chris Thomas",
+            "title": "World pharma supplier India restricts export of some ingredients, drugs",
+            "description": "India, the world's main supplier of generic drugs, on Tuesday restricted the export of 26 pharmaceutical ingredients and drugs made from them, including paracetamol, as concern mounted the coronavirus outbreak could turn into a pandemic.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-india-idUSKBN20Q0ZZ",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498082302&w=1200&r=LYNXMPEG220N0",
+            "publishedAt": "2020-03-03T09:25:37Z",
+            "content": "BENGALURU/NEW DELHI (Reuters) - India, the world’s main supplier of generic drugs, on Tuesday restricted the export of 26 pharmaceutical ingredients and drugs made from them, including paracetamol, as concern mounted the coronavirus outbreak could turn into a… [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Japan to cancel ceremony marking deadly quake as coronavirus spreads: media",
+            "description": "Japan will cancel a ceremony to mark the anniversary of the deadly 2011 quake that devastated its northeast coast and triggered the Fukushima nuclear disaster, as it curbs gatherings as a precaution against coronavirus, Japanese media reported.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-japan-ceremony-idUSKBN20Q24Q",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T15:31:41Z",
+            "content": "TOKYO (Reuters) - Japan will cancel a ceremony to mark the anniversary of the deadly 2011 quake that devastated its northeast coast and triggered the Fukushima nuclear disaster, as it curbs gatherings as a precaution against coronavirus, Japanese media report… [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Aradhana Aravindan",
+            "title": "Virus outbreak a litmus test for Singapore's new leaders",
+            "description": "When a rare moment of panic buying shook Singapore's highly ordered society over fears about the spread of coronavirus, it took a personal broadcast from the prime minister to bring calm.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-singapore-politics-idUSKBN20Q0H0",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498016944&w=1200&r=LYNXMPEG220B7",
+            "publishedAt": "2020-03-03T06:06:47Z",
+            "content": "SINGAPORE (Reuters) - When a rare moment of panic buying shook Singapore’s highly ordered society over fears about the spread of coronavirus, it took a personal broadcast from the prime minister to bring calm. \r\nAs Lee Hsien Loong, a scion of Singapore’s foun… [+3845 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Saudi Arabia restricts entry for Gulf citizens, residents - SPA",
+            "description": "Saudi Arabia on Tuesday barred citizens and residents of Gulf Cooperation Council (GCC) countries from entering the kingdom for 14 days after returning from outside the region due to coronavirus concerns, state news agency SPA reported.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-saudi-gcc-idUSKBN20Q1X2",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498185409&w=1200&r=LYNXMPEG2217D",
+            "publishedAt": "2020-03-03T14:18:57Z",
+            "content": "RIYADH (Reuters) - Saudi Arabia on Tuesday barred citizens and residents of Gulf Cooperation Council (GCC) countries from entering the kingdom for 14 days after returning from outside the region due to coronavirus concerns, state news agency SPA reported. \r\nT… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Logitech International expects profit hit from coronavirus",
+            "description": "Logitech International said on Tuesday supply problems caused by the coronavirus outbreak will dent its full year profit, as it gave its outlook for the next financial year.",
+            "url": "https://www.reuters.com/article/us-logitech-outlook-idUSKBN20Q0KA",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T06:45:02Z",
+            "content": "ZURICH (Reuters) - Logitech International said on Tuesday supply problems caused by the coronavirus outbreak will dent its full year profit, as it gave its outlook for the next financial year. \r\nThe maker of computer mice and keyboards for players of Fortnite… [+689 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "European airlines warn of worsening impact of coronavirus",
+            "description": "European airlines warned on Tuesday that the worst is yet to come in economic damage to the industry from the rapid spread of coronavirus Covid-19.",
+            "url": "https://www.reuters.com/article/us-europe-airlines-idUSKBN20Q13U",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-03T09:58:39Z",
+            "content": "BRUSSELS (Reuters) - European airlines warned on Tuesday that the worst is yet to come in economic damage to the industry from the rapid spread of coronavirus Covid-19. \r\nThe Airlines for Europe lobbying group also called for a relaxation of airport regulatio… [+168 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "In an emergency move, Federal Reserve cuts interest rates to battle coronavirus",
+            "description": "The U.S. Federal Reserve cut interest rates on Tuesday in an emergency move designed to shield the world's largest economy from the impact of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-usa-fed-idUSKBN20Q22F",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498204121&w=1200&r=LYNXMPEG221D4",
+            "publishedAt": "2020-03-03T15:07:11Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Federal Reserve cut interest rates on Tuesday in an emergency move designed to shield the world’s largest economy from the impact of the coronavirus. \r\nIn a statement, the central bank said it was cutting rates by a half percen… [+740 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPS says coronavirus outbreak to hurt first-quarter results",
+            "description": "United Parcel Service Inc said on Tuesday its first-quarter results would be hit as the coronavirus outbreak weighs on global economic growth. (http://bit.ly/32K2pF6)",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-ups-idUSKBN20Q2LX",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498272672&w=1200&r=LYNXMPEG221T4",
+            "publishedAt": "2020-03-03T18:16:36Z",
+            "content": "(Reuters) - United Parcel Service Inc (UPS.N) said on Tuesday its first-quarter results would be hit as the coronavirus outbreak weighs on global economic growth. (bit.ly/32K2pF6) \r\nReporting by Ankit Ajmera in Bengaluru; Editing by Saumyadeb Chakrabarty"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Helen Coster",
+            "title": "High-fives, hugs, kisses discouraged as U.S. companies respond to growing coronavirus threat",
+            "description": "As news broke of more cases of coronavirus spreading across the United States, T-Mobile had a novel response to the threat: fewer hugs, kisses or high-fives.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-travel-restriction-idUSKBN20Q1AI",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200303&t=2&i=1498116475&w=1200&r=LYNXMPEG220TA",
+            "publishedAt": "2020-03-03T11:07:33Z",
+            "content": "(Reuters) - As news broke of more cases of coronavirus spreading across the United States, T-Mobile had a novel response to the threat: fewer hugs, kisses or high-fives. \r\nThe Bellevue, Washington-based wireless provider is “encouraging personal distancing at… [+3171 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy, CNN",
+            "title": "Chinese student assaulted in 'racist' coronavirus attack in London",
+            "description": "A 23-year-old Chinese man studying in London has spoken out about racism linked to the coronavirus after suffering facial injuries in a \"racially aggravated assault.\"",
+            "url": "https://www.cnn.com/2020/03/03/uk/coronavirus-assault-student-london-scli-intl-gbr/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303133412-jonathan-mok-coronavirus-attack-split-super-tease.jpg",
+            "publishedAt": "2020-03-03T18:44:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Kathleen Harris",
+            "title": "Morneau, G7 counterparts vow to use 'all appropriate policy tools' to cope with COVID-19",
+            "description": "Finance Minister Bill Morneau and his G7 counterparts wrapped up a conference call Tuesday vowing to use every fiscal tool necessary to limit the economic harm of COVID-19, the respiratory illness caused by the novel coronavirus that is spreading around the g…",
+            "url": "https://www.cbc.ca/news/politics/covid19-coronavirus-economy-mar3-1.5483416",
+            "urlToImage": "https://i.cbc.ca/1.5397898.1583245085!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/fiscal-update-20191216.jpg",
+            "publishedAt": "2020-03-03T14:19:28Z",
+            "content": "Finance Minister Bill Morneau and his G7 counterparts wrapped up a conference call Tuesday vowing to use every fiscal tool necessary to limit the economic harm of COVID-19, the respiratory illness caused by the novel coronavirus that is spreading around the g… [+1878 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "olivertapia",
+            "title": "Tu mascota no puede contraer coronavirus. Esta es la razón por la que un perro dio positivo",
+            "description": "¿Podría tu amado gato o perro contagiarte el coronavirus? Los expertos están de acuerdo, casi definitivamente no. ¿Por qué entonces un perro en Hong Kong dio positivo por coronavirus la semana pasada? Esta es la explicación, según expertos.",
+            "url": "https://cnnespanol.cnn.com/2020/03/03/tu-mascota-no-puede-contraer-coronavirus-esta-es-la-razon-por-la-que-un-perro-dio-positivo/",
+            "urlToImage": "https://cnnespanol2.files.wordpress.com/2020/03/cnn-perro-coronavirus-2.jpg?quality=100&strip=info",
+            "publishedAt": "2020-03-03T10:46:40Z",
+            "content": "¿El coronavirus afecta a tu mascota? (enero) 0:39\r\nHong Kong (CNN) — Es tu mejor amigo peludo y algo fijo en tu hogar, pero ¿podría tu amado gato o perro contagiarte el coronavirus?\r\nLos expertos están de acuerdo, casi definitivamente no.\r\n¿Por qué entonces u… [+8115 chars]"
+        }
+    ]
+}
