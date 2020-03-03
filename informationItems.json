@@ -1,0 +1,36 @@
+{
+    "data": [
+      {
+        "title": "What are the symptoms of the coronavirus?",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html"
+      },
+      {
+        "title": "How do I prevent myself from getting the coronavirus?",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"
+      },
+      {
+        "title": "What do I do if I think I'm sick?",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html"
+      },
+      {
+        "title": "Where should I avoid traveling to?",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+      },
+      {
+        "title": "How do I properly wash my hands?",
+        "url": "https://www.cdc.gov/handwashing/when-how-handwashing.html"
+      },
+      {
+        "title": "How do I properly use hand sanitizer?",
+        "url": "https://www.cdc.gov/handwashing/when-how-handwashing.html"
+      },
+      {
+        "title": "Frequently Asked Questions",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+      },
+      {
+        "title": "Frequently Asked Questions for Travelers",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html"
+      }
+    ]
+  }
